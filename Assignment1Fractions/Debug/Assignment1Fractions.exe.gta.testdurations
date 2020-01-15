@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Executable>C:\Users\Unatro\Desktop\NBCC2\C++\Assignment1Fractions\Debug\Assignment1Fractions.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="FractionTest.constructTest01" Duration="1" />
+    <TestDuration Test="FractionTest.constructTest02" Duration="1" />
+    <TestDuration Test="FractionTest.equalityTest01" Duration="1" />
+    <TestDuration Test="FractionTest.equalityTest02" Duration="1" />
+    <TestDuration Test="FractionTest.inequalityTest01" Duration="1" />
+    <TestDuration Test="FractionTest.inequalityTest02" Duration="1" />
+    <TestDuration Test="FractionTest.ltTest01" Duration="1" />
+    <TestDuration Test="FractionTest.ltTest02" Duration="1" />
+    <TestDuration Test="FractionTest.ltTest03" Duration="1" />
+    <TestDuration Test="FractionTest.leTest01" Duration="1" />
+    <TestDuration Test="FractionTest.leTest02" Duration="1" />
+    <TestDuration Test="FractionTest.gtTest01" Duration="1" />
+    <TestDuration Test="FractionTest.gtTest02" Duration="1" />
+    <TestDuration Test="FractionTest.geTest01" Duration="1" />
+    <TestDuration Test="FractionTest.geTest02" Duration="1" />
+    <TestDuration Test="FractionTest.addTest01" Duration="1" />
+    <TestDuration Test="FractionTest.addTest03" Duration="1" />
+    <TestDuration Test="FractionTest.subTest01" Duration="1" />
+    <TestDuration Test="FractionTest.subTest03" Duration="1" />
+    <TestDuration Test="FractionTest.multTest01" Duration="1" />
+    <TestDuration Test="FractionTest.multTest03" Duration="1" />
+    <TestDuration Test="FractionTest.divTest01" Duration="1" />
+    <TestDuration Test="FractionTest.divTest03" Duration="1" />
+    <TestDuration Test="FractionTest.osTest01" Duration="1" />
+    <TestDuration Test="FractionTest.isTest01" Duration="1" />
+    <TestDuration Test="FractionTest.isTest02" Duration="1" />
+    <TestDuration Test="FractionTest.ltTest04" Duration="1" />
+    <TestDuration Test="FractionTest.gtTest03" Duration="1" />
+    <TestDuration Test="FractionTest.gtTest04" Duration="1" />
+    <TestDuration Test="FractionTest.addTest02" Duration="1" />
+    <TestDuration Test="FractionTest.addTest04" Duration="1" />
+    <TestDuration Test="FractionTest.subTest02" Duration="1" />
+    <TestDuration Test="FractionTest.subTest02b" Duration="1" />
+    <TestDuration Test="FractionTest.subTest04" Duration="1" />
+    <TestDuration Test="FractionTest.multTest02" Duration="1" />
+    <TestDuration Test="FractionTest.multTest04" Duration="1" />
+    <TestDuration Test="FractionTest.divTest02" Duration="1" />
+    <TestDuration Test="FractionTest.divTest02b" Duration="1" />
+    <TestDuration Test="FractionTest.divTest04" Duration="1" />
+  </TestDurations>
+</GtaTestDurations>
